@@ -2,166 +2,96 @@
   include('header.php');
 ?>
 
-<!-- Titlebar
-================================================== -->
-<section id="titlebar">
-	<!-- Container -->
-	<div class="container">
-	
-		<div class="eight columns">
-			<h3 class="left">Contact</h3>
-		</div>
-		
-		<div class="eight columns">
-			<nav id="breadcrumbs">
-				<ul>
-					<li>You are here:</li>
-					<li><a href="#">Home</a></li>
-					<li>Contact</li>
-				</ul>
-			</nav>
-		</div>
+  <main id="main">
 
-	</div>
-	<!-- Container / End -->
-</section>
+    <!-- ======= Contact Section ======= -->
+    <section class="breadcrumbs">
+      <div class="container">
 
-  <!-- Content -->
-  <div id="content">
-    <div class="container">
-      <div class="row">
-        <div class="span12">     
-          <h2>Get in touch</h2>
-        </div>        
-                
-        <div class="span6">
-          <h3>Tabs</h3>
-          <!-- Tabs -->
-          <div class="tabbable">
-            <ul class="nav nav-tabs">
-              <li class="active"><a href="#tab1" data-toggle="tab">Section 1</a></li>
-              <li><a href="#tab2" data-toggle="tab">Section 2</a></li>
-              <li><a href="#tab3" data-toggle="tab">Section 3</a></li>
-            </ul>
-            <div class="tab-content">
-              <div class="tab-pane active" id="tab1">
-                <h3>I'm in Section 1</h3>
-                <p>Ut wisi enim ad minim veniam, quis nostrud exeinim et.Pie wafer wypas candy canes toffee. Co adipisicing elit, lit in voluptah uveere velit aliquet.Pie wafer wypas candy canes toffee. Co adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Integer posuere erat a ante venenatis dapibus posuerci tation ullamcorper susc nostrudexerci tation ullamcoramcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendinim veniam, quis nostrud exerci tation ullamcorper suscipit lobrerit in vul</p>
+        <div class="d-flex justify-content-between align-items-center">
+          <h2>Contact</h2>
+          <ol>
+            <li><a href="index.php">Home</a></li>
+            <li>Contact</li>
+          </ol>
+        </div>
+
+      </div>
+    </section><!-- End Contact Section -->
+
+    <!-- ======= Contact Section ======= -->
+    <section class="contact" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500">
+      <div class="container">
+
+        <div class="row">
+
+          <div class="col-lg-6">
+
+            <div class="row">
+              <div class="col-md-12">
+                <div class="info-box">
+                  <i class="bx bx-map"></i>
+                  <h3>Our Address</h3>
+                  <p>A108 Adam Street, New York, NY 535022</p>
+                </div>
               </div>
-              <div class="tab-pane" id="tab2">
-                <h3>I'm in Section 2</h3>
-                <p>Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcinim veniam, quis nostrud exerci tation ullamcorper t lobortis nisl ut alisequat. Duis autem vel einim veniam, quis nostrud exerinim veniam, quis nostrud exerci tation ullamcorper suscipit lobci tation ullamcorper suscipit lobum iriure dolor in hendruis aute irure dolor in reprehenderit in voluptah ultricies vehat a ante veere velit aliquet.Pie wafer wypas candy canes toffee. Co adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Integer posuere erat a ante venenatis dapibus posuerit in vul</p>
+              <div class="col-md-6">
+                <div class="info-box">
+                  <i class="bx bx-envelope"></i>
+                  <h3>Email Us</h3>
+                  <p>info@example.com<br>contact@example.com</p>
+                </div>
               </div>
-              <div class="tab-pane" id="tab3">
-                <h3>I'm in Section 3</h3>
-                <p>Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea coiipit lobmmodo consequat. Duis autem vel eum iriure dolor in hendrerit in vinim veniam, quis nostrud einim veniam, quis nostrud exeruis aute irure dolor in reprehenderit in voluptah ultricies vehat a ante veere velit aliquet.Pie wafer wypas candy canes toffee. Co adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Integer posuere erat a ante venenatis dapibus posuci tation ullamcorper suscipit lobxerci tation ullamcorper suscipit lobul</p>
+              <div class="col-md-6">
+                <div class="info-box">
+                  <i class="bx bx-phone-call"></i>
+                  <h3>Call Us</h3>
+                  <p>+1 5589 55488 55<br>+1 6678 254445 41</p>
+                </div>
               </div>
             </div>
+
           </div>
-          <!-- Tabs End -->
-        </div>
-        <div class="span6">
-          <h3>Content</h3>
-          <p>
-          Porta montes montes vel nunc cras porttitor mid elementum dictumst dignissim dapibus urna ac, enia, magna dictumst odio, a tincidunt rhoncus massa in in risus nunc augue pham? Aenean, urna, magna dictumst odio massa in in risus nunc augue phasellus mattis mid elementum dictumst dignissim dapibus urna ac, enim? 
-          </p><p>
-          Porttitor! Aenean, urna, magna dictumst odio, a tingue phasellus mattis mid elementum dictumst dignissim dapibucidunt rhoncus massa in in risus nunc augue phasellus mattis Aenean, urna, magna dictumst odio massa in in risus nunc augue phasellus mattis mid elementum dictumst dignissim dapibus.
-          </p><p>
-          Tingue phasellus mattis mid elementum dictumst dignissim dapibucidunt rhoncus massa in in risus nunc augue phasellus mattis Aenean, urna, magna dictumst odio massa in in risus nunc augue phasellus mattis mid elementum dictumst dignissim dapibus.
-          </p>
-        </div>        
 
-        <div class="row space40"></div> 
+          <div class="col-lg-6">
+            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+              <div class="row">
+                <div class="col-md-6 form-group">
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                </div>
+                <div class="col-md-6 form-group mt-3 mt-md-0">
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+                </div>
+              </div>
+              <div class="form-group mt-3">
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+              </div>
+              <div class="form-group mt-3">
+                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+              </div>
+              <div class="my-3">
+                <div class="loading">Loading</div>
+                <div class="error-message"></div>
+                <div class="sent-message">Your message has been sent. Thank you!</div>
+              </div>
+              <div class="text-center"><button type="submit">Send Message</button></div>
+            </form>
+          </div>
 
-        <div class="span12">
-      <!-- Our Clients -->
-      <div class="row">
-        <div class="span12">
-          <h3>Our Clients</h3>
         </div>
-      </div> 
-    
-      <div id="our-clients" class="slider2 flexslider">
-        <ul class="slides">
-          <li>
-            <div class="row">
-              <div class="span2">
-                <a href="#" rel="external">
-                    <img src="img/our-clients/1.png" alt="">
-                </a>
-              </div>
-              <div class="span2">
-                <a href="#" rel="external">
-                    <img src="img/our-clients/2.png" alt="">
-                </a>
-              </div>
-              <div class="span2">
-                <a href="#" rel="external">
-                    <img src="img/our-clients/3.png" alt="">
-                </a>
-              </div>
-              <div class="span2">
-                <a href="#" rel="external">
-                    <img src="img/our-clients/4.png" alt="">
-                </a>
-              </div>
-              <div class="span2">
-                <a href="#" rel="external">
-                    <img src="img/our-clients/5.png" alt="">
-                </a>
-              </div>
-              <div class="span2">
-                <a href="#" rel="external">
-                    <img src="img/our-clients/6.png" alt="">
-                </a>
-              </div>
-            </div>  
-          </li>
-          <li>
-            <div class="row">
-              <div class="span2">
-                <a href="#" rel="external">
-                    <img src="img/our-clients/4.png" alt="">
-                </a>
-              </div>
-              <div class="span2">
-                <a href="#" rel="external">
-                    <img src="img/our-clients/3.png" alt="">
-                </a>
-              </div>
-              <div class="span2">
-                <a href="#" rel="external">
-                    <img src="img/our-clients/1.png" alt="">
-                </a>
-              </div>
-              <div class="span2">
-                <a href="#" rel="external">
-                    <img src="img/our-clients/2.png" alt="">
-                </a>
-              </div>
-              <div class="span2">
-                <a href="#" rel="external">
-                    <img src="img/our-clients/5.png" alt="">
-                </a>
-              </div>
-              <div class="span2">
-                <a href="#" rel="external">
-                    <img src="img/our-clients/6.png" alt="">
-                </a>
-              </div>
-            </div>  
-          </li>
-        </ul>
-      </div> 
-      <!-- Our Clients End -->
-        
+
       </div>
-      <div class="row space50"></div> 
-    </div>
-  </div>
-  <!-- Content End -->
-  
+    </section><!-- End Contact Section -->
+
+    <!-- ======= Map Section ======= -->
+    <section class="map mt-2">
+      <div class="container-fluid p-0">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3024.2219901290355!2d-74.00369368400567!3d40.71312937933185!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a23e28c1191%3A0x49f75d3281df052a!2s150%20Park%20Row%2C%20New%20York%2C%20NY%2010007%2C%20USA!5e0!3m2!1sen!2sbg!4v1579767901424!5m2!1sen!2sbg" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+      </div>
+    </section><!-- End Map Section -->
+
+  </main><!-- End #main -->
+
 <?php
   include('footer.php');
 ?>
-  

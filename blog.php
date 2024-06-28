@@ -2,216 +2,248 @@
   include('header.php');
 ?>
 
-<!-- Titlebar
-================================================== -->
-<section id="titlebar">
-	<!-- Container -->
-	<div class="container">
-	
-		<div class="eight columns">
-			<h3 class="left">Blogs</h3>
-		</div>
-		
-		<div class="eight columns">
-			<nav id="breadcrumbs">
-				<ul>
-					<li>You are here:</li>
-					<li><a href="#">Home</a></li>
-					<li>Blogs</li>
-				</ul>
-			</nav>
-		</div>
+  <main id="main">
 
-	</div>
-	<!-- Container / End -->
-</section>
+    <!-- ======= Blog Section ======= -->
+    <section class="breadcrumbs">
+      <div class="container">
 
-  <!-- Content -->
-  <div id="content">
-    <div class="container">
-          <div class="row">
-            <div class="span12">
-            <h3>&nbsp;</h3>
-            </div>
-            
-            <div class="span9">
-  
-              <!-- Blog Item -->
-              <div class="row">
-                <div class="span1">
-  
-                  <div class="blog-icon">
-                    <i class="icon-camera"></i><br>
-                    <h5>Gallery Post</h5>                  
-                  </div>
-                     
-                </div>
-                <div class="span8">
-                  <a href="blog-detail.htm"><img src="img/blog/1.jpg" alt=""></a>
-          
-                  <div class="row">
-                    <div class="span8 post-d-info">
-                      <a href="blog-detail.htm"><h3>Ancient Timbuktu Texts in Danger?</h3></a>
-                      <div class="blue-dark">
-                      <i class="icon-user"></i> By Admin <i class="icon-tag"></i> Photography | Portrait <i class="icon-comment-alt"></i> With 12 Comments
-                      </div>
-                      <p>
-                      Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Nullam id dolor id nibh ultricies vehicula ut id elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.Pie wafer wypas candy canes toffee. Cookie icing candy jelly oat cake chupa chups bear claw.
-                      </p>
-                    </div>
-          
-                  </div>
-                </div>
-              </div>
-              <!-- Blog Item End -->
-              
-              <div class="row space40"></div>   
-              
-              <!-- Blog Item -->
-              <div class="row">
-                <div class="span1">
-  
-                  <div class="blog-icon">
-                    <i class="icon-film"></i><br>
-                    <h5>Video Post</h5>                  
-                  </div>
-                     
-                </div>
-                <div class="span8">
-                  <a href="blog-detail.htm"><img src="img/blog/2.jpg" alt=""></a>
-          
-                  <div class="post-d-info">
-                    <a href="blog-detail.htm"><h3>Ancient Timbuktu Texts in Danger?</h3></a>
-                    <div class="blue-dark">
-                    <i class="icon-user"></i> By Admin <i class="icon-tag"></i> Photography | Portrait <i class="icon-comment-alt"></i> With 12 Comments
-                    </div>
-                    <p>
-                    Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Nullam id dolor id nibh ultricies vehicula ut id elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.Pie wafer wypas candy canes toffee. Cookie icing candy jelly oat cake chupa chups bear claw.
-                    </p>
-                  </div>
-  
-                </div>
-              </div>
-              <!-- Blog Item End -->            
-              
-              <div class="row space40"></div>   
-              
-              <!-- Blog Item -->
-              <div class="row">
-                <div class="span1">
-  
-                  <div class="blog-icon">
-                    <i class="icon-quote-right"></i><br>
-                    <h5>Single Post</h5>                  
-                  </div>
-                     
-                </div>
-                <div class="span8">
-                  <a href="blog-detail.htm"><img src="img/blog/3.jpg" alt=""></a>
-  
-                  <div class="post-d-info">
-                    <a href="blog-detail.htm"><h3>Ancient Timbuktu Texts in Danger?</h3></a>
-                    <div class="blue-dark">
-                    <i class="icon-user"></i> By Admin <i class="icon-tag"></i> Photography | Portrait <i class="icon-comment-alt"></i> With 12 Comments
-                    </div>
-                    <p>
-                      Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Nullam id dolor id nibh ultricies vehicula ut id elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.Pie wafer wypas candy canes toffee. Cookie icing candy jelly oat cake chupa chups bear claw.
-                    </p>
-                  </div>
-  
-                </div>
-              </div>
-              <!-- Blog Item End -->       
-  
-              <div class="row space30"></div>   
-  
-              <!-- Paging -->      
-              <div class="row">
-                <div class="span9">
-                  <a href="#" class="paging">&#62;</a>
-                  <a href="#" class="paging">84</a>
-                  <a href="#" class="paging">83</a>
-                  <a href="#" class="paging">82</a>
-                  <a href="#" class="paging">...</a>
-                  <a href="#" class="paging">3</a>
-                  <a href="#" class="paging">2</a>
-                  <a href="#" class="paging">1</a>
-                  <a href="#" class="paging">&#60;</a>
-                </div>
-              </div> 
-              <!-- Paging End -->              
-              
-              <div class="row space40"></div>   
+        <div class="d-flex justify-content-between align-items-center">
+          <h2>Blog</h2>
 
-            </div>
-          
-          <!-- Side Bar -->  
-          <div class="span3">
-              
-            <h3 class="p-t-0">Search</h3>
-            <div class="search-box">
-              <a href="#" class="search-icon"><i class="icon-search"></i></a>
-              <input class="search" name="" value="Search">
-            </div>  
-
-            <h3>Categories</h3>
-            <ul class="list-c">
-              <li><i class="icon-chevron-right"></i><a href="#">Business Plan</a></li>
-              <li><i class="icon-chevron-right"></i><a href="#">Entertainment</a></li>
-              <li><i class="icon-chevron-right"></i><a href="#">News & Politics</a></li>
-              <li><i class="icon-chevron-right"></i><a href="#">Social Media Networks</a></li>
-              <li><i class="icon-chevron-right"></i><a href="#">Technology & Innovation</a></li>              
-            </ul>                   
-
-            <h3>Tags</h3>          
-            <a href="#"><div class="tag">WordPress</div></a>
-            <a href="#"><div class="tag">Webdesign</div></a>
-            <a href="#"><div class="tag">Post-processing</div></a>
-            <a href="#"><div class="tag">Tourism</div></a>
-            <a href="#"><div class="tag">Rendering</div></a>
-            <a href="#"><div class="tag">Photography</div></a>
-
-            <h3>Latest Tweets</h3>
-            <i class="icon-twitter"></i> Saying "Wow, You're cool." when you see someone doing something stupid. <a href="#" rel="external">http://t.co/YywnqBb8</a><br>
-            6 minutes ago
-            <br><br>
-            <i class="icon-twitter"></i> Are you getting ready to work on a new project, take off on a sales trip. 
-            <a href="#" rel="external">http://pic.witt.com.co/Uyoyyk#sp</a><br> 
-            33 minutes ago
-
-            <h3>Photos From Flickr</h3>
-            <div class="flickr-widget">
-              <div class="photo-stream">
-                <img src="img/stream/01.jpg" alt="">
-              </div>
-              <div class="photo-stream">
-                <img src="img/stream/02.jpg" alt="">
-              </div>
-              <div class="photo-stream">
-                <img src="img/stream/03.jpg" alt="">
-              </div>
-              <div class="photo-stream">
-                <img src="img/stream/04.jpg" alt="">
-              </div>
-              <div class="photo-stream">
-                <img src="img/stream/05.jpg" alt="">
-              </div>
-              <div class="photo-stream">
-                <img src="img/stream/06.jpg" alt="">
-              </div>
-            </div>
-
-            <h3>Text Widget</h3>
-            Amet, consectetur adipisicing elit, sedure doriatlor in fugiat nulla  deserunt mollit anim id est laborum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit orn.
-                       
-          <div class="row space50"></div>  
+          <ol>
+            <li><a href="index.php">Home</a></li>
+            <li>Blog</li>
+          </ol>
         </div>
+
       </div>
-    </div>
-  </div>
-  <!-- Content End -->
-  
+    </section><!-- End Blog Section -->
+
+    <!-- ======= Blog Section ======= -->
+    <section id="blog" class="blog">
+      <div class="container" data-aos="fade-up">
+
+        <div class="row">
+
+          <div class="col-lg-8 entries">
+
+            <article class="entry">
+
+              <div class="entry-img">
+                <img src="assets/img/blog/blog-1.jpg" alt="" class="img-fluid">
+              </div>
+
+              <h2 class="entry-title">
+                <a href="blog-single.php">Dolorum optio tempore voluptas dignissimos cumque fuga qui quibusdam quia</a>
+              </h2>
+
+              <div class="entry-meta">
+                <ul>
+                  <li class="d-flex align-items-center"><i class="bi bi-person"></i> <a href="blog-single.php">John Doe</a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <a href="blog-single.php"><time datetime="2020-01-01">Jan 1, 2020</time></a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-chat-dots"></i> <a href="blog-single.php">12 Comments</a></li>
+                </ul>
+              </div>
+
+              <div class="entry-content">
+                <p>
+                  Similique neque nam consequuntur ad non maxime aliquam quas. Quibusdam animi praesentium. Aliquam et laboriosam eius aut nostrum quidem aliquid dicta.
+                  Et eveniet enim. Qui velit est ea dolorem doloremque deleniti aperiam unde soluta. Est cum et quod quos aut ut et sit sunt. Voluptate porro consequatur assumenda perferendis dolore.
+                </p>
+                <div class="read-more">
+                  <a href="blog-single.php">Read More</a>
+                </div>
+              </div>
+
+            </article><!-- End blog entry -->
+
+            <article class="entry">
+
+              <div class="entry-img">
+                <img src="assets/img/blog/blog-2.jpg" alt="" class="img-fluid">
+              </div>
+
+              <h2 class="entry-title">
+                <a href="blog-single.php">Nisi magni odit consequatur autem nulla dolorem</a>
+              </h2>
+
+              <div class="entry-meta">
+                <ul>
+                  <li class="d-flex align-items-center"><i class="bi bi-person"></i> <a href="blog-single.php">John Doe</a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <a href="blog-single.php"><time datetime="2020-01-01">Jan 1, 2020</time></a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-chat-dots"></i> <a href="blog-single.php">12 Comments</a></li>
+                </ul>
+              </div>
+
+              <div class="entry-content">
+                <p>
+                  Incidunt voluptate sit temporibus aperiam. Quia vitae aut sint ullam quis illum voluptatum et. Quo libero rerum voluptatem pariatur nam.
+                  Ad impedit qui officiis est in non aliquid veniam laborum. Id ipsum qui aut. Sit aliquam et quia molestias laboriosam. Tempora nam odit omnis eum corrupti qui aliquid excepturi molestiae. Facilis et sint quos sed voluptas. Maxime sed tempore enim omnis non alias odio quos distinctio.
+                </p>
+                <div class="read-more">
+                  <a href="blog-single.php">Read More</a>
+                </div>
+              </div>
+
+            </article><!-- End blog entry -->
+
+            <article class="entry">
+
+              <div class="entry-img">
+                <img src="assets/img/blog/blog-3.jpg" alt="" class="img-fluid">
+              </div>
+
+              <h2 class="entry-title">
+                <a href="blog-single.php">Possimus soluta ut id suscipit ea ut. In quo quia et soluta libero sit sint.</a>
+              </h2>
+
+              <div class="entry-meta">
+                <ul>
+                  <li class="d-flex align-items-center"><i class="bi bi-person"></i> <a href="blog-single.php">John Doe</a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <a href="blog-single.php"><time datetime="2020-01-01">Jan 1, 2020</time></a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-chat-dots"></i> <a href="blog-single.php">12 Comments</a></li>
+                </ul>
+              </div>
+
+              <div class="entry-content">
+                <p>
+                  Aut iste neque ut illum qui perspiciatis similique recusandae non. Fugit autem dolorem labore omnis et. Eum temporibus fugiat voluptate enim tenetur sunt omnis.
+                  Doloremque est saepe laborum aut. Ipsa cupiditate ex harum at recusandae nesciunt. Ut dolores velit.
+                </p>
+                <div class="read-more">
+                  <a href="blog-single.php">Read More</a>
+                </div>
+              </div>
+
+            </article><!-- End blog entry -->
+
+            <article class="entry">
+
+              <div class="entry-img">
+                <img src="assets/img/blog/blog-4.jpg" alt="" class="img-fluid">
+              </div>
+
+              <h2 class="entry-title">
+                <a href="blog-single.php">Non rem rerum nam cum quo minus. Dolor distinctio deleniti explicabo eius exercitationem.</a>
+              </h2>
+
+              <div class="entry-meta">
+                <ul>
+                  <li class="d-flex align-items-center"><i class="bi bi-person"></i> <a href="blog-single.php">John Doe</a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <a href="blog-single.php"><time datetime="2020-01-01">Jan 1, 2020</time></a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-chat-dots"></i> <a href="blog-single.php">12 Comments</a></li>
+                </ul>
+              </div>
+
+              <div class="entry-content">
+                <p>
+                  Aspernatur rerum perferendis et sint. Voluptates cupiditate voluptas atque quae. Rem veritatis rerum enim et autem. Saepe atque cum eligendi eaque iste omnis a qui.
+                  Quia sed sunt. Ea asperiores expedita et et delectus voluptates rerum. Id saepe ut itaque quod qui voluptas nobis porro rerum. Quam quia nesciunt qui aut est non omnis. Inventore occaecati et quaerat magni itaque nam voluptas. Voluptatem ducimus sint id earum ut nesciunt sed corrupti nemo.
+                </p>
+                <div class="read-more">
+                  <a href="blog-single.php">Read More</a>
+                </div>
+              </div>
+
+            </article><!-- End blog entry -->
+
+            <div class="blog-pagination">
+              <ul class="justify-content-center">
+                <li><a href="#">1</a></li>
+                <li class="active"><a href="#">2</a></li>
+                <li><a href="#">3</a></li>
+              </ul>
+            </div>
+
+          </div><!-- End blog entries list -->
+
+          <div class="col-lg-4">
+
+            <div class="sidebar">
+
+              <h3 class="sidebar-title">Search</h3>
+              <div class="sidebar-item search-form">
+                <form action="">
+                  <input type="text">
+                  <button type="submit"><i class="bi bi-search"></i></button>
+                </form>
+              </div><!-- End sidebar search formn-->
+
+              <h3 class="sidebar-title">Categories</h3>
+              <div class="sidebar-item categories">
+                <ul>
+                  <li><a href="#">General <span>(25)</span></a></li>
+                  <li><a href="#">Lifestyle <span>(12)</span></a></li>
+                  <li><a href="#">Travel <span>(5)</span></a></li>
+                  <li><a href="#">Design <span>(22)</span></a></li>
+                  <li><a href="#">Creative <span>(8)</span></a></li>
+                  <li><a href="#">Educaion <span>(14)</span></a></li>
+                </ul>
+              </div><!-- End sidebar categories-->
+
+              <h3 class="sidebar-title">Recent Posts</h3>
+              <div class="sidebar-item recent-posts">
+                <div class="post-item clearfix">
+                  <img src="assets/img/blog/blog-recent-1.jpg" alt="">
+                  <h4><a href="blog-single.php">Nihil blanditiis at in nihil autem</a></h4>
+                  <time datetime="2020-01-01">Jan 1, 2020</time>
+                </div>
+
+                <div class="post-item clearfix">
+                  <img src="assets/img/blog/blog-recent-2.jpg" alt="">
+                  <h4><a href="blog-single.php">Quidem autem et impedit</a></h4>
+                  <time datetime="2020-01-01">Jan 1, 2020</time>
+                </div>
+
+                <div class="post-item clearfix">
+                  <img src="assets/img/blog/blog-recent-3.jpg" alt="">
+                  <h4><a href="blog-single.php">Id quia et et ut maxime similique occaecati ut</a></h4>
+                  <time datetime="2020-01-01">Jan 1, 2020</time>
+                </div>
+
+                <div class="post-item clearfix">
+                  <img src="assets/img/blog/blog-recent-4.jpg" alt="">
+                  <h4><a href="blog-single.php">Laborum corporis quo dara net para</a></h4>
+                  <time datetime="2020-01-01">Jan 1, 2020</time>
+                </div>
+
+                <div class="post-item clearfix">
+                  <img src="assets/img/blog/blog-recent-5.jpg" alt="">
+                  <h4><a href="blog-single.php">Et dolores corrupti quae illo quod dolor</a></h4>
+                  <time datetime="2020-01-01">Jan 1, 2020</time>
+                </div>
+
+              </div><!-- End sidebar recent posts-->
+
+              <h3 class="sidebar-title">Tags</h3>
+              <div class="sidebar-item tags">
+                <ul>
+                  <li><a href="#">App</a></li>
+                  <li><a href="#">IT</a></li>
+                  <li><a href="#">Business</a></li>
+                  <li><a href="#">Mac</a></li>
+                  <li><a href="#">Design</a></li>
+                  <li><a href="#">Office</a></li>
+                  <li><a href="#">Creative</a></li>
+                  <li><a href="#">Studio</a></li>
+                  <li><a href="#">Smart</a></li>
+                  <li><a href="#">Tips</a></li>
+                  <li><a href="#">Marketing</a></li>
+                </ul>
+              </div><!-- End sidebar tags-->
+
+            </div><!-- End sidebar -->
+
+          </div><!-- End blog sidebar -->
+
+        </div>
+
+      </div>
+    </section><!-- End Blog Section -->
+
+  </main><!-- End #main -->
+
 <?php
   include('footer.php');
 ?>
-  

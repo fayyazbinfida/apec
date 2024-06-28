@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Crawl-delay:3
-Sitemap:https://apec-products.com/sitemap.xml
