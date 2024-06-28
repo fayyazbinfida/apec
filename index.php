@@ -61,8 +61,8 @@
                 <li><a href="products.htm" title="">Product Range</a></li>
                 <li><a href="services.htm" title="">Services</a></li>
                 <li><a href="enquiries.htm" title="">Enquiries</a>
-  			      <!--<ul> <!-- Submenu -->
-                      <!--<li><a href="components.htm" title="">Components</a></li>
+  			      <ul> <!-- Submenu -->
+                      <li><a href="components.htm" title="">Components</a></li>
                       <li><a href="blog.htm" title="">Blog</a></li>
                       <li><a href="blog-detail.htm" title="">Blog Detail</a></li>
                       <li><a href="contact.htm" title="">Contact</a></li>
