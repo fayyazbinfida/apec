@@ -21,7 +21,7 @@
   <div class="container">
     <div class="row">
 
-      <div class="col-lg-3 col-md-6 footer-links">
+      <div class="col-lg-2 col-md-6 footer-links">
         <h4>Useful Links</h4>
         <ul>
           <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
@@ -43,21 +43,21 @@
         </ul>
       </div>
 
-      <div class="col-lg-3 col-md-6 footer-contact">
+      <div class="col-lg-4 col-md-6 footer-contact">
         <h4>Contact Us</h4>
         <p>
-          A108 Adam Street <br>
-          New York, NY 535022<br>
-          United States <br><br>
-          <strong>Phone:</strong> +1 5589 55488 55<br>
-          <strong>Email:</strong> info@example.com<br>
+          M # 8 & 9, Mezzanine Floor, Falaknaz Tower<br>
+          Opposite Jinnah Terminal Airport<br>
+          Main Shahra-e-Faisal, Karachi-75210, Pakistan<br><br>
+          <strong>Phone:</strong> +92-21 34599 315, 34577 808<br>
+          <strong>Email:</strong> info@apec-products.com<br>
         </p>
 
       </div>
 
       <div class="col-lg-3 col-md-6 footer-info">
-        <h3>About Moderna</h3>
-        <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
+        <h3>About APEC</h3>
+        <p>APEC is customer oriented company providing quality solutions from local and global markets.</p>
         <div class="social-links mt-3">
           <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
           <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
@@ -72,14 +72,14 @@
 
 <div class="container">
   <div class="copyright">
-    &copy; Copyright <strong><span>Moderna</span></strong>. All Rights Reserved
+    &copy; Copyright <strong><span>APEC</span></strong>. All Rights Reserved
   </div>
   <div class="credits">
     <!-- All the links in the footer should remain intact. -->
     <!-- You can delete the links only if you purchased the pro version. -->
     <!-- Licensing information: https://bootstrapmade.com/license/ -->
     <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/ -->
-    Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+    Designed by <a href="https://logicracks.co.uk/">LogicRacks</a>
   </div>
 </div>
 </footer><!-- End Footer -->

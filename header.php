@@ -51,7 +51,7 @@
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="active " href="index.php">Home</a></li>
+          <li><a href="index.php">Home</a></li>
           <li><a href="about.php">About</a></li>
           <li><a href="services.php">Product Range</a></li>
           <li><a href="portfolio.php">Services</a></li>

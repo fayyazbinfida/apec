@@ -173,62 +173,61 @@
 
         <div class="section-title">
           <h2>Tetstimonials</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
         </div>
 
         <div class="testimonials-carousel swiper">
           <div class="swiper-wrapper">
             <div class="testimonial-item swiper-slide">
               <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-              <h3>Saul Goodman</h3>
-              <h4>Ceo &amp; Founder</h4>
+              <h3>Ahmed Khan</h3>
+              <h4>Project Manager</h4>
               <p>
                 <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                APEC has been an invaluable partner for our oil and gas projects. Their commitment to quality and customer satisfaction is unparalleled. The equipment we received met all our specifications and the delivery was prompt. We highly recommend APEC for their professionalism and expertise.
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
               </p>
             </div>
 
             <div class="testimonial-item swiper-slide">
               <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-              <h3>Sara Wilsson</h3>
-              <h4>Designer</h4>
+              <h3>Maria Hernandez</h3>
+              <h4>Operations Directorr</h4>
               <p>
                 <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                We have been sourcing our power generation equipment from APEC for several years now. Their products are always of the highest quality and comply with international standards. Their after-sales service is also commendable. APEC is a trusted supplier we rely on.
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
               </p>
             </div>
 
             <div class="testimonial-item swiper-slide">
               <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-              <h3>Jena Karlis</h3>
-              <h4>Store Owner</h4>
+              <h3>Sara Lee</h3>
+              <h4>Technical Manager</h4>
               <p>
                 <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                Working with APEC has been a game-changer for our water desalination projects. Their mechanical equipment packages are top-notch and have significantly enhanced our operational efficiency. We appreciate their attention to detail and dedication to quality.
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
               </p>
             </div>
 
             <div class="testimonial-item swiper-slide">
               <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-              <h3>Matt Brandon</h3>
-              <h4>Freelancer</h4>
+              <h3>Michael Brown</h3>
+              <h4>Chief Engineer</h4>
               <p>
                 <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                The expertise and professionalism displayed by APEC have been outstanding. Their instrumentation and control systems are advanced and user-friendly. We are highly satisfied with their products and services.
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
               </p>
             </div>
 
             <div class="testimonial-item swiper-slide">
               <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-              <h3>John Larson</h3>
-              <h4>Entrepreneur</h4>
+              <h3>David Wilson</h3>
+              <h4>Electrical Engineer</h4>
               <p>
                 <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                APEC has consistently provided us with superior quality stud bolts and gaskets for our pharmaceutical processes. Their products adhere to strict standards, ensuring safety and reliability. Their commitment to customer satisfaction is evident in every interaction.
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
               </p>
             </div>
