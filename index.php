@@ -51,7 +51,7 @@
       <div class="container">
         <div class="section-title">
           <h2>Why choose us?</h2>
-          <p>Commited Suppliers of Value, Quality and Competence</p>
+          <!-- <p>Commited Suppliers of Value, Quality and Competence</p> -->
         </div>
 
         <div class="row">
